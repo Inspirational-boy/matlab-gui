@@ -1,5 +1,5 @@
 # matlab gui程序设计-抽奖机
-根据B站‘’打浦桥程序员‘’发布的MATLAB GUI基础课程，通过自学，完成了属于自己的一个matlab gui小工具
+根据B站‘’打浦桥程序员‘’发布的MATLAB GUI基础课程，通过自学，完成了属于自己的一个matlab gui小工具，matlab gui程序设计-抽奖机
 
 RESET 重置键，功能：抽奖机显示到起始页面
 
